@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<!-- <iframe src="" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
 
