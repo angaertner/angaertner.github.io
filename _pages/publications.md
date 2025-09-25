@@ -86,4 +86,3 @@ Enge, S., Fleischhauer, M., **Gärtner, A.**, Reif, A., Lesch, K.P., Kliegel, M.
 Armbruster, D., Suchert, V., **Gärtner, A.**, & Strobel, A. (2014). Threatening shapes: the impact of simple geometric configurations on peripheral physiological markers. *Physiology & Behavior*, 135, 215-221. [doi: 10.1016/j.physbeh.2014.06.020](http://dx.doi.org/10.1016/j.physbeh.2014.06.020)
 
 *joint first authorship
-
