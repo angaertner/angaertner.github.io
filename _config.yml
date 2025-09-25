@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral researcher"
   location         : "Dresden"
-  employer         : "Technische Universität\nDresden"
+  employer         : "Technische Universität<br>Dresden"
   uri              : # URL
   email            : "anne_gaertner@tu-dresden.de" 
 
