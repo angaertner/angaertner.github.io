@@ -13,7 +13,7 @@ author_profile: true
 
 König, L. M., **Gärtner, A.**, Slack, H. R., Dhakal, S., Adetula, A., Dougherty, M. R., & Corral-Frías, N. S. (2025). How to bolster employability through open science. *PsyArXiv*. [doi.org/10.31219/osf.io/zgfkd_v1](https://doi.org/10.31219/osf.io/zgfkd_v1)
 
-**Gärtner, A**.*, Scheffel, C.*, Schweikert, T., & Dörfel, D. (2025). The FlexER-Scale: A new Self-report Measure of Individual Differences in Emotion Regulation Flexibility. *PsyArXiv.* [doi.org/10.31234/osf.io/hprbz_v3](https://doi.org/10.31234/osf.io/hprbz_v3) [OSF](https://osf.io/fghr8/files/osfstorage)
+**Gärtner, A**.*, Scheffel, C.*, Schweikert, T., & Dörfel, D. (2025). The FlexER-Scale: A new Self-report Measure of Individual Differences in Emotion Regulation Flexibility. *PsyArXiv.* [doi.org/10.31234/osf.io/hprbz_v3](https://doi.org/10.31234/osf.io/hprbz_v3)   [OSF](https://osf.io/fghr8/files/osfstorage)
 
 Sicorello, M., Zaehringer, J., Paschke, L., Steimke, R., Stelzel, C., Gianaros, P. J., LaBar, K. S., Graner, J. L., Kim, S. H., Wessa, M., Sandner, M., Weinmar, F., Derntl, B., Kraynak, T. E., Huneke, N. T. M., Fagan, H., Kohn, N., Fernandez, G., Yan, L., Marin-Morales, A., Verdejo-Roman, J., Steward, T., Harrison, B. J., Davey, C. G., Dorfel, D., Walter, H., Neta, M., Pierce, J., Stolz, D. S., Kissler, J., Benzait, A., Erk, S., Berboth, S., van Reekum, C. M., Tupitsa, E., Mulej Bratec, S., Sorg, C., Muller-Pinzler, L., Sokolowski, A., Dragan, W. L., Folkierska-Zukowska, M., Jentsch, V. L., Merz, C. J., Scheffel, C., Diers, K., Nashiro, K., Heinke, S., Min, J., Mather, M., **Gärtner, A.**, McRae, K., Powers, J. P., Doren, N., Maier, S. U., Nebe, S., Dziobek, I., Gaebler, M., Daniels, J. K., Burghardt, M., Schmidt, S. N. L., Hofhansel, L., Habel, U., & Morawetz, C. (2025). The elusive neural signature of emotion regulation capabilities: Evidence from a large-scale consortium.* bioRxiv. *[https://doi.org/10.1101/2025.08.18.670843](https://doi.org/10.1101/2025.08.18.670843)
 
@@ -27,7 +27,7 @@ Etzel, F. T.*, Seyffert-Müller, A.*, Schönbrodt, F. D., Kreuzer, L., **Gärtne
 
 ## Publications
 
-Scheffel, C. & **Gärtner, A.** (2025). The role of cognitive effort in emotion regulation. *Affective Science*. [doi.org/10.1007/s42761-025-00324-x](https://doi.org/10.1007/s42761-025-00324-x) | [Preprint *PsyArXiv*](https://doi.org/10.31234/osf.io/eg9fm).
+Scheffel, C. & **Gärtner, A.** (2025). The role of cognitive effort in emotion regulation. *Affective Science*. [doi.org/10.1007/s42761-025-00324-x](https://doi.org/10.1007/s42761-025-00324-x) [Preprint *PsyArXiv*](https://doi.org/10.31234/osf.io/eg9fm).
 
 Rauthmann, J., Armbruster, D., Asselmann, E., Berkessel, J. B., Bleidorn, W., Buecker, S., **Gärtner, A.**, Leising, D., Luhmann, M., Phan, L. V., Rammstedt, B., Reitz, A. K., Renner, K.-H., Rohrer, J. M., Schmitz, F., Schoedel, R., Schubert, A.-L., Thielmann, I., Wrzus, C., & Zimmermann, J. (2025). Die Differentielle und Persönlichkeitspsychologie im Jahr 2025: Stand, Entwicklungen und Ausblick. *Psychologische Rundschau. *Advance online publication. [*English translation on PsyArXiv*](https://osf.io/preprints/psyarxiv/2597u_v1)
 
