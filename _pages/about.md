@@ -7,95 +7,70 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website.
+Willkommen auf meiner wissenschaftlichen Website.
 
-I am a postdoctoral researcher at TU Dresden with a research focus on cognitive neuroscience, emotion, decision-making, and Open Science. This website brings together my research, publications, teaching activities, science communication, and ongoing projects.
+Ich bin Postdoktorandin an der Technischen Universität Dresden und forsche zu xxx
+---
+
+## Forschung
+
+Meine Forschung xxx. Auf dieser Website finden Sie einen Überblick über aktuelle Forschungsschwerpunkte, laufende Projekte sowie wissenschaftliche Kooperationen.
+
+→ Mehr erfahren
 
 ---
 
-## Research
+## Forschungsprojekt: RESQUE
 
-My work focuses on understanding human cognition, emotion, and behaviour using experimental and neuroscientific methods.
+RESQUE ist ein zentrales Forschungsprojekt meiner aktuellen Arbeit. Auf der Projektseite finden Sie Informationen zu den Forschungszielen, beteiligten Partnern sowie Veröffentlichungen und Materialien.
 
-**Research areas**
-
-- Cognitive Neuroscience
-- Emotion & Decision Making
-- Experimental Psychology
-- Open Science
-- Reproducibility
-
-→ Learn more on the **Research** page.
+→ Zum Projekt
 
 ---
 
-## Featured Project
+## Publikationen
 
-### RESQUE
-
-RESQUE is one of my current research projects and forms a central part of my scientific work.
-
-→ Learn more about RESQUE.
-
----
-
-## Publications
-
-Publications are listed together with links to
+Meine wissenschaftlichen Publikationen werden übersichtlich zusammengestellt und – soweit verfügbar – durch weiterführende Materialien ergänzt:
 
 - 📄 PDF
 - 🔗 DOI
-- 💻 Code
-- 📊 Data
-- 📋 Preregistration
-- 🧪 Materials
-
-where available.
+- 📊 Forschungsdaten
+- 💻 Analyseskripte
+- 🧪 Materialien
+- 📋 Präregistrierungen
 
 ---
 
 ## Open Science
 
-I strongly support transparent and reproducible research.
-
-Whenever possible, publications include links to
-
-- Open Data
-- Open Materials
-- Analysis Code
-- Preregistrations
-- OSF resources
+Offene und reproduzierbare Forschung ist ein wesentlicher Bestandteil meiner wissenschaftlichen Arbeit. Veröffentlichungen werden – sofern möglich – durch frei zugängliche Materialien, Datensätze, Code und weitere Open-Science-Ressourcen ergänzt.
 
 ---
 
-## Teaching
+## Lehre
 
-Information on courses, supervision and teaching activities can be found on the Teaching page.
-
----
-
-## Talks & Conferences
-
-Conference presentations, invited talks and workshops are collected in one place and updated regularly.
+Informationen zu Lehrveranstaltungen, Abschlussarbeiten und meinem Verständnis universitärer Lehre finden Sie auf der entsprechenden Seite.
 
 ---
 
-## Media
+## Vorträge & Konferenzen
 
-This website also documents science communication activities including
-
-- newspaper articles
-- interviews
-- podcasts
-- YouTube videos
-- public outreach
+Eine Übersicht über eingeladene Vorträge, Konferenzbeiträge, Workshops und wissenschaftliche Präsentationen wird fortlaufend ergänzt.
 
 ---
 
-## Short CV
+## Medien
 
-A short academic CV including education, positions, awards and selected achievements is available on the CV page.
+Hier finden Sie Presseberichte, Interviews, Beiträge zur Wissenschaftskommunikation sowie ausgewählte Videoformate.
 
 ---
+
+## Kurzlebenslauf
+
+Ein kompakter akademischer Lebenslauf informiert über meinen wissenschaftlichen Werdegang, bisherige Positionen, Auszeichnungen und ausgewählte Qualifikationen.
+
+---
+
+Diese Website wird kontinuierlich erweitert und dokumentiert meine wissenschaftlichen Aktivitäten, Projekte und Veröffentlichungen.
 
 Thank you for visiting my website.
