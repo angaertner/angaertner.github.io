@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="padding:2rem 0 2.5rem 0; border-bottom:1px solid #e7ebe6; margin-bottom:2rem;">
-
+<div markdown="1" style="padding:2rem 0 2.5rem 0; border-bottom:1px solid #e7ebe6; margin-bottom:2rem;">
 # Anne Gärtner
 
 ### Postdoctoral Researcher · TU Dresden
