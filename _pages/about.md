@@ -7,70 +7,70 @@ redirect_from:
   - /about.html
 ---
 
-Willkommen auf meiner wissenschaftlichen Website.
+<div class="notice--success" markdown="1">
 
-Ich bin Postdoktorandin an der Technischen Universität Dresden und forsche zu xxx
+# Anne Gärtner, PhD
+
+**Differential and Personality Psychology · Emotion Regulation · Open Science · Research Quality**
+
+Anne Gärtner ist Postdoctoral Researcher an der Professur für Differentielle und Persönlichkeitspsychologie der TU Dresden. Ihre Forschung beschäftigt sich mit individuellen Unterschieden in emotionaler Verarbeitung und Emotionsregulation sowie mit Open Science und Reproduzierbarkeit in Psychologie und Neurowissenschaften.
+
+[Publikationen ansehen](/publications/) &nbsp; [Kontakt aufnehmen](mailto:anne_gaertner@tu-dresden.de)
+
+</div>
+
+---
+
+## Im Überblick
+
+| Forschung | RESQUE | Publikationen |
+|---|---|---|
+| Emotionale Verarbeitung, Emotionsregulation, individuelle Unterschiede und neurowissenschaftliche Methoden. | Framework zur Bewertung von Forschungsqualität und Responsible Research Assessment. | Publikationen mit PDFs, DOI, OSF, Code, Daten, Materialien und Präregistrierungen. |
+| [Mehr erfahren](#forschung) | [RESQUE ansehen](#resque) | [Publikationen ansehen](/publications/) |
+
 ---
 
 ## Forschung
 
-Meine Forschung xxx. Auf dieser Website finden Sie einen Überblick über aktuelle Forschungsschwerpunkte, laufende Projekte sowie wissenschaftliche Kooperationen.
-
-→ Mehr erfahren
+Die Forschungsschwerpunkte liegen auf individuellen Unterschieden in emotionaler Verarbeitung und Emotionsregulation sowie deren kognitiven, neurobiologischen, peripher-physiologischen und genetischen Grundlagen. Methodisch arbeitet Anne Gärtner u. a. mit fMRT, EEG, peripherer Physiologie, molekulargenetischen Ansätzen und klassischer experimenteller Psychologie.
 
 ---
 
-## Forschungsprojekt: RESQUE
+## RESQUE
 
-RESQUE ist ein zentrales Forschungsprojekt meiner aktuellen Arbeit. Auf der Projektseite finden Sie Informationen zu den Forschungszielen, beteiligten Partnern sowie Veröffentlichungen und Materialien.
+**RESQUE – Research Quality Evaluation** ist ein zentrales Projekt zur transparenten Bewertung von Forschungsqualität.
 
-→ Zum Projekt
+Wichtige Ressourcen:
 
----
-
-## Publikationen
-
-Meine wissenschaftlichen Publikationen werden übersichtlich zusammengestellt und – soweit verfügbar – durch weiterführende Materialien ergänzt:
-
-- 📄 PDF
-- 🔗 DOI
-- 📊 Forschungsdaten
-- 💻 Analyseskripte
-- 🧪 Materialien
-- 📋 Präregistrierungen
+- [RESQUE Website](https://www.resque.info/)
+- [RESQUE Collector App](https://resque-framework.github.io/collector-app/)
+- [RESQUE Profile](https://shiny.psy.lmu.de/felix/RESQUE_profile/)
+- [Open Source Code](https://github.com/RESQUE-Framework)
 
 ---
 
 ## Open Science
 
-Offene und reproduzierbare Forschung ist ein wesentlicher Bestandteil meiner wissenschaftlichen Arbeit. Veröffentlichungen werden – sofern möglich – durch frei zugängliche Materialien, Datensätze, Code und weitere Open-Science-Ressourcen ergänzt.
+Open Science und reproduzierbare Forschung sind zentrale Bestandteile der wissenschaftlichen Arbeit. Anne Gärtner ist Mitglied der lokalen Open Science Initiative der Fakultät Psychologie und hat das Commitment to Research Transparency and Open Science unterzeichnet.
+
+| Ressource | Status |
+|---|---|
+| 📄 PDFs | werden bei Publikationen ergänzt |
+| 🔗 DOI | wird pro Publikation verlinkt |
+| 📊 Forschungsdaten | soweit verfügbar |
+| 💻 Code | soweit verfügbar |
+| 🧪 Materialien | soweit verfügbar |
+| 📋 Präregistrierungen | soweit verfügbar |
 
 ---
 
-## Lehre
+## Weitere Bereiche
 
-Informationen zu Lehrveranstaltungen, Abschlussarbeiten und meinem Verständnis universitärer Lehre finden Sie auf der entsprechenden Seite.
-
----
-
-## Vorträge & Konferenzen
-
-Eine Übersicht über eingeladene Vorträge, Konferenzbeiträge, Workshops und wissenschaftliche Präsentationen wird fortlaufend ergänzt.
+| Lehre | Medien | Kurz-CV |
+|---|---|---|
+| Lehrveranstaltungen, Betreuung und universitäre Lehre. | Presseberichte, Interviews, YouTube-Videos und Wissenschaftskommunikation. | Akademischer Werdegang, Positionen, Preise und ausgewählte Qualifikationen. |
+| [Lehre ergänzen](#) | [Medien ansehen](/media/) | [CV ansehen](/cv/) |
 
 ---
 
-## Medien
-
-Hier finden Sie Presseberichte, Interviews, Beiträge zur Wissenschaftskommunikation sowie ausgewählte Videoformate.
-
----
-
-## Kurzlebenslauf
-
-Ein kompakter akademischer Lebenslauf informiert über meinen wissenschaftlichen Werdegang, bisherige Positionen, Auszeichnungen und ausgewählte Qualifikationen.
-
----
-
-Diese Website wird kontinuierlich erweitert und dokumentiert meine wissenschaftlichen Aktivitäten, Projekte und Veröffentlichungen.
-
-Thank you for visiting my website.
+Diese Website wird kontinuierlich erweitert und bündelt Forschung, Publikationen, Projekte, Medienbeiträge, Lehraktivitäten und wissenschaftliche Ressourcen.
