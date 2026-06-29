@@ -20,12 +20,17 @@ Ich erforsche die kognitiven und neuronalen Grundlagen menschlicher Emotionen un
 
 <br>
 
-<a href="/publications/" style="display:inline-block;padding:10px 18px;border-radius:8px;background:#A9C5A0;color:white;text-decoration:none;font-weight:600;">Publikationen</a>
+<div style="display:flex; gap:12px; flex-wrap:wrap; margin-top:1.5rem;">
 
-&nbsp;&nbsp;
+<a href="/publications/" style="display:inline-block;padding:10px 18px;border-radius:8px;background:#A9C5A0;color:white;text-decoration:none;font-weight:600;">
+Publikationen
+</a>
 
-<a href="/media/" style="display:inline-block;padding:10px 18px;border-radius:8px;border:1px solid #A9C5A0;color:#567050;text-decoration:none;font-weight:600;">Medien</a>
+<a href="/media/" style="display:inline-block;padding:10px 18px;border-radius:8px;border:1px solid #A9C5A0;color:#567050;text-decoration:none;font-weight:600;">
+Medien
+</a>
 
+</div>
 </div>
 
 ---
