@@ -41,3 +41,65 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* Custom visual refresh: soft sage green accents */
+
+:root {
+  --sage-green: #A9C5A0;
+  --sage-green-dark: #5F7A58;
+  --sage-green-light: #F3F7F1;
+  --text-soft: #2F3633;
+}
+
+/* Links */
+a {
+  color: var(--sage-green-dark);
+}
+
+a:hover {
+  color: var(--sage-green);
+  text-decoration: none;
+}
+
+/* Navigation */
+.greedy-nav a,
+.masthead__menu-item a {
+  color: var(--text-soft);
+}
+
+.greedy-nav a:hover,
+.masthead__menu-item a:hover {
+  color: var(--sage-green-dark);
+}
+
+/* Buttons */
+.btn,
+.btn--primary,
+.archive__item a.btn {
+  background-color: var(--sage-green);
+  border-color: var(--sage-green);
+  color: #ffffff !important;
+}
+
+.btn:hover,
+.btn--primary:hover,
+.archive__item a.btn:hover {
+  background-color: var(--sage-green-dark);
+  border-color: var(--sage-green-dark);
+  color: #ffffff !important;
+}
+
+/* Soft boxes / notices */
+.notice--success {
+  background-color: var(--sage-green-light);
+  border-left-color: var(--sage-green);
+}
+
+/* Tables */
+table th {
+  background-color: var(--sage-green-light);
+}
+
+/* Profile image border */
+.author__avatar img {
+  border: 3px solid var(--sage-green-light);
+}
