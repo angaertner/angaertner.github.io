@@ -103,3 +103,20 @@ table th {
 .author__avatar img {
   border: 3px solid var(--sage-green-light);
 }
+/* Slightly wider content area */
+
+@media (min-width: 80em) {
+  .page {
+    width: calc(100% - 280px);
+    padding-right: 0;
+  }
+
+  .page__inner-wrap {
+    max-width: 980px;
+  }
+
+  .archive {
+    width: calc(100% - 280px);
+    padding-right: 0;
+  }
+}
