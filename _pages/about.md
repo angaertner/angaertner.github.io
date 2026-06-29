@@ -23,11 +23,27 @@ Anne Gärtner ist Postdoctoral Researcher an der Professur für Differentielle u
 
 ## Im Überblick
 
-| Forschung | RESQUE | Publikationen |
-|---|---|---|
-| Emotionale Verarbeitung, Emotionsregulation, individuelle Unterschiede und neurowissenschaftliche Methoden. | Framework zur Bewertung von Forschungsqualität und Responsible Research Assessment. | Publikationen mit PDFs, DOI, OSF, Code, Daten, Materialien und Präregistrierungen. |
-| [Mehr erfahren](#forschung) | [RESQUE ansehen](#resque) | [Publikationen ansehen](/publications/) |
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin: 1.5rem 0;">
 
+<div style="border:1px solid #e5e8e3; border-radius:12px; padding:1rem; background:#fbfcfa;">
+<strong>Forschung</strong><br>
+Emotionale Verarbeitung, Emotionsregulation und individuelle Unterschiede.<br><br>
+<a href="#forschung">Mehr erfahren →</a>
+</div>
+
+<div style="border:1px solid #e5e8e3; border-radius:12px; padding:1rem; background:#fbfcfa;">
+<strong>RESQUE</strong><br>
+Research Quality Evaluation und Responsible Research Assessment.<br><br>
+<a href="#resque">RESQUE ansehen →</a>
+</div>
+
+<div style="border:1px solid #e5e8e3; border-radius:12px; padding:1rem; background:#fbfcfa;">
+<strong>Publikationen</strong><br>
+Publikationen mit PDFs, DOI, OSF, Code, Daten und Materialien.<br><br>
+<a href="/publications/">Publikationen ansehen →</a>
+</div>
+
+</div>
 ---
 
 ## Forschung
