@@ -7,15 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-<div class="notice--success" markdown="1">
+<div style="padding:2rem 0 2.5rem 0; border-bottom:1px solid #e7ebe6; margin-bottom:2rem;">
 
-# Anne Gärtner, PhD
+# Anne Gärtner
 
-**Differential and Personality Psychology · Emotion Regulation · Open Science · Research Quality**
+### Postdoctoral Researcher · TU Dresden
 
-Anne Gärtner ist Postdoctoral Researcher an der Professur für Differentielle und Persönlichkeitspsychologie der TU Dresden. Ihre Forschung beschäftigt sich mit individuellen Unterschieden in emotionaler Verarbeitung und Emotionsregulation sowie mit Open Science und Reproduzierbarkeit in Psychologie und Neurowissenschaften.
+*Emotion Regulation · Individual Differences · Cognitive Neuroscience · Open Science*
 
-[Publikationen ansehen](/publications/) &nbsp; [Kontakt aufnehmen](mailto:anne_gaertner@tu-dresden.de)
+<br>
+
+Ich erforsche die kognitiven und neuronalen Grundlagen menschlicher Emotionen und individueller Unterschiede. Ein weiterer Schwerpunkt meiner Arbeit liegt auf transparenter, reproduzierbarer Forschung und der Weiterentwicklung wissenschaftlicher Qualitätsstandards.
+
+<br>
+
+<a href="/publications/" style="display:inline-block;padding:10px 18px;border-radius:8px;background:#A9C5A0;color:white;text-decoration:none;font-weight:600;">Publikationen</a>
+
+&nbsp;&nbsp;
+
+<a href="/media/" style="display:inline-block;padding:10px 18px;border-radius:8px;border:1px solid #A9C5A0;color:#567050;text-decoration:none;font-weight:600;">Medien</a>
 
 </div>
 
